@@ -1,0 +1,31 @@
+payload:
+  # 银行 / 支付
+  - DOMAIN-KEYWORD,hsbc
+  - DOMAIN-SUFFIX,wechatpay.com.hk
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN,revolut
+
+  # Apple
+  - DOMAIN-SUFFIX,apple-relay.apple.com
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com.cn
+
+  # 视频
+  - DOMAIN-SUFFIX,api.bilibili.com
+
+  # 德国运营商
+  - DOMAIN-SUFFIX,1und1-mobilfunk.de
+  - DOMAIN-SUFFIX,www.drillisch-online.de
+  - DOMAIN-SUFFIX,gmx.de
+
+  # 英国运营商
+  - DOMAIN-SUFFIX,vodafone.nl
+  - DOMAIN-SUFFIX,vodafone.co.uk
+  - DOMAIN-SUFFIX,voxi.co.uk
+  - DOMAIN-SUFFIX,se.sim.ct.ee.co.uk
+  - DOMAIN-SUFFIX,telefonica.rcs.telephony.goog
+  - DOMAIN-KEYWORD,lemfi
+
+  # 关键词
+  - DOMAIN-KEYWORD,proton
+  - DOMAIN-KEYWORD,yuh
