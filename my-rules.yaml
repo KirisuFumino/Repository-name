@@ -1,0 +1,63 @@
+
+  # GVPN
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-KEYWORD,cloud.cupronickel.goog
+  - DOMAIN-KEYWORD,g-tun
+  - DOMAIN-KEYWORD,pdp.nordvpn.com
+  - DOMAIN-KEYWORD,napps-1.com
+  - DST-PORT,51820
+  - DOMAIN-SUFFIX,gogdik-launches.appsflyersdk.com
+
+  # Simcard
+  - DOMAIN-KEYWORD,mcc234
+  - DOMAIN-SUFFIX,ee.co.uk
+  - IP-CIDR,31.94.0.0/16
+  - DST-PORT,500
+  - DST-PORT,4500
+  - DOMAIN-SUFFIX,gsp64-ssl.ls.apple.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - IP-CIDR,8.82.0.0/19
+  - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - IP-CIDR,87.194.0.0/19
+  - IP-CIDR,87.194.88.0/23
+  - DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+
+  # 这里你原来写错了
+  - IP-CIDR,46.68.0.0/17
+  - IP-CIDR,208.54.32.35/32
+
+  - DOMAIN-SUFFIX,digicert.cn
+  - DOMAIN-SUFFIX,go-esim.com
+  - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,tello.com
+  - DOMAIN-SUFFIX,t-mobile.idemia.io
+  - DOMAIN-SUFFIX,eas3.msg.t-mobile.com
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc023.mcc262.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,es.1und1-mobilfunk.de
+  - DOMAIN-SUFFIX,epdg.telco.telenet-ops.be
+  - DOMAIN-SUFFIX,fp-gb-o2.rcs.telephony.goog
+  - DOMAIN-SUFFIX,vodafone.de
+  - DOMAIN-SUFFIX,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org
+
+  # 这里也是 IP
+  - IP-CIDR,203.96.213.193/32
+  - IP-CIDR,203.96.213.192/32
+
+  - DOMAIN-SUFFIX,bob.at
+  - DOMAIN-SUFFIX,lebara.ch
+  - DOMAIN-SUFFIX,ondemandconnectivity.com
+
+  # VideoWiki
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-KEYWORD,plex.tv  
+  - DOMAIN-KEYWORD,api.opensubtitles.com
+  - DOMAIN-KEYWORD,themoviedb.org
+  - DOMAIN-KEYWORD,thetvdb.com
+  - DOMAIN-KEYWORD,addic7ed.com
+  - DOMAIN-KEYWORD,api.roonlabs.net
+  - DOMAIN-KEYWORD,anilist.co
